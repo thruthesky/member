@@ -24,11 +24,16 @@
 5. 처음 `git push` 를 하고 난 다음 부터는 `Git issues`를 통해서 각 개발자들에게 업무가 할당됩니다. 업무를 맡은 개발자가 어려운 점이 있으면 질문을 하시면 됩니다.
 6. 공부를 하면서 느낀 점이나 새로 알게된 지식 또는 경험담 등을 [플러터 카페](https://cafe.naver.com/ionic2)에 공유해주세요.
 
+### 기타
+
+* Dart 와 Flutter Style Guide 대로 코딩을 합니다.
+
 ## 참고 자료
 
 * [플러터 스터디 카카오톡 단톡방 참여](https://open.kakao.com/o/g20m41Mb)
 * [플러터 카페](https://cafe.naver.com/ionic2)
-
+* [Dart Style Guide](https://dart.dev/guides/language/effective-dart)
+* [Flutter Style Guide](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
 
 ### 플러터 동영상 강좌 - 왕초보를 위한 플러터 동영상 강좌 모음
 
@@ -36,7 +41,6 @@
 * [오준석의 생존코딩 - 중급편](https://www.youtube.com/watch?v=ei8TX-uqP6E&list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe)
 * [코딩셰프의 Flutter 동영상 강좌](https://www.youtube.com/channel/UC_2ge45JCuJH1z6VYt4iCgQ)
 * [더코딩파파의 FLutter 동영상 강좌](https://www.youtube.com/channel/UCUH2DSbsNUz2sW3kBNn4ibw)
-
 
 ### 플러터 레이아웃 강좌
 
