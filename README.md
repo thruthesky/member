@@ -34,6 +34,8 @@
 * [플러터 카페](https://cafe.naver.com/ionic2)
 * [Dart Style Guide](https://dart.dev/guides/language/effective-dart)
 * [Flutter Style Guide](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo)
+* [인프런 무료 동영상 강좌 - 로그인 필요](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37516)
+  * [파이어베이스 기본 강좌(설치 및 연결) 설명](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37790)
 
 ### 플러터 동영상 강좌 - 왕초보를 위한 플러터 동영상 강좌 모음
 
